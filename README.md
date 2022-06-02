@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @word45678
 - 👀 I’m interested in Software Development, but also learning more techniques in general.
-- 🌱 I’m currently learning JS and C++.
+- 🌱 I’m currently working on Python, Java, and C++.
 - 💞️ I’m looking to collaborate on nothing yet, still brushing off rust and expanding my repetoire.
 - 📫 How to reach me: carrier pigeons usually work best, otherwise I'm sure you'll find me somehow.
 
